@@ -1,4 +1,3 @@
-from ast import While
 import random
 
 while True:
